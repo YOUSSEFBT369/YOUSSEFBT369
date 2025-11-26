@@ -13,7 +13,7 @@
 ## 💼 **Hiring Status**
 - ✅ **Available for PFE internship** starting immediately
 - ✅ **Open to full-time positions** after graduation
-- 💡 **Target Positions:** Data Scientist, Machine Learning Engineer, AI Developer, Data Analyst
+- 💡 **Target Positions:** Data Analyst, Data Scientist, Machine Learning Engineer, AI Developer
 - 🌐 **All data analysis roles** considered
 - 📧 **Direct contact:** bt.youssef.369@gmail.com
 
