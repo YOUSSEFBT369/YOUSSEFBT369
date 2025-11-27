@@ -35,6 +35,12 @@
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge)
 ![Signal Processing](https://img.shields.io/badge/Signal%20Processing-8A2BE2?style=for-the-badge)
 ![Image Processing](https://img.shields.io/badge/Image%20Processing-0078D7?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🎯 **AI Prompt Engineering**
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge)
 
 ### 📊 **Data Analysis & Business Intelligence**
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -82,6 +88,7 @@
 - 🚀 **Continuous Learning & Adaptability**
 - 💡 **Innovation & Creative Thinking**
 - ⏱️ **Time Management & Organization**
+- 🎯 **Prompt Engineering**
 
 ---
 
