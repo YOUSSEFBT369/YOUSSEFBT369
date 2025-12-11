@@ -92,9 +92,9 @@
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
+### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSSEF-BT&langs_count=10&theme=radical" />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=YOUSSEF-BT&layout=compact&langs_count=10&theme=tokyonight" />
 </p>
 
 ---
