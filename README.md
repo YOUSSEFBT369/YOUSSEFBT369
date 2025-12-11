@@ -94,9 +94,14 @@
 
 ## 📊 **GitHub Stats**
 
+<h3 align="center">📊 GitHub Analytics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSSEF-BT&layout=compact&theme=radical&hide_border=true&card_width=350" alt="Top Languages"/>
+  <img src="https://img.shields.io/github/stars/YOUSSEF-BT?label=Total%20Stars&color=blue&style=for-the-badge" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/YOUSSEF-BT?label=Followers&style=for-the-badge&color=green" alt="Followers" />
+  <img src="https://img.shields.io/badge/Repositories-12-orange?style=for-the-badge&logo=github" alt="Repos" />
+  <img src="https://img.shields.io/badge/Main%20Language-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="Main Lang" />
 </p>
+
 ---
 
 ## 🌟 **Currently Working On**
