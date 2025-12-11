@@ -94,10 +94,10 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="center" style="padding:20px; border-radius:25px; backdrop-filter:blur(12px); background:rgba(255,255,255,0.05);">
 
 <img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUSSEF-BT&layout=compact&langs_count=10&theme=github_dark&border_radius=18&hide_border=false"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUSSEF-BT&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true"
 />
 
 </div>
