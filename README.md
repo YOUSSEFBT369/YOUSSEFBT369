@@ -92,10 +92,19 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUSSEF-BT&layout=compact&langs_count=10&theme=tokyonight" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+🧠 **Languages Breakdown**  
+<sub>Une visualisation claire, minimaliste et élégante</sub>
+
+  
+<img
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUSSEF-BT&layout=donut&langs_count=8&theme=transparent&hide_border=true"
+/>
+
+</div>
 
 ---
 
